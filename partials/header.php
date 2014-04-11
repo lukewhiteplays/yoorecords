@@ -48,11 +48,11 @@
 							<div class="container">
 								<form class="form" role="form">
 									<div class="col-lg-3">
-										<h3>Edit Your Profile</h3>
+										<h3>Your Profile</h3>
+										
 									</div>
 									<div class="col-lg-3">
-										<img src="/assets/img/profiles/users/temp1.png">
-										<button class="btn btn2 btn2c">Upload</button>
+										
 									</div>
 									<div class="col-lg-3">
 										<div class="form-group">
@@ -65,7 +65,7 @@
 										</div>
 									
 										<div class="form-group">
-											<label>First name</label>
+											<label>First Name</label>
 											<input type="text"
 												name="first_name"
 												required="yes" 
@@ -152,7 +152,21 @@
 									<div class="audio-player-list-button">
 										<span class="icomoon icomoon-menu"></span>
 									</div>
-								</div>						
+								</div>	
+								<div class="audio-player-list-wrapper">
+									<ul class="list-group audio-player-list-group">
+										<li class="list-group-item audio-player-list-item"><span class="badge">1</span> Never Going Back 
+											<span class="pull-right actions">
+												<span class="icomoon icomoon-heart2"></span>
+												<span class="icomoon icomoon-coin"></span>
+											</span>
+											<span class="pull-right">04:16</span>
+										</li>
+										<li class="list-group-item audio-player-list-item list-group-item-danger active"><span class="badge">2</span> Don't Let Go</li>
+										<li class="list-group-item audio-player-list-item"><span class="badge">3</span> Our Mistake</li>
+										<li class="list-group-item audio-player-list-item list-group-item-danger"><span class="badge">4</span> Where Did You Go</li>
+									</ul>
+								</div>					
 							</div>
 							
 							<!-- profile trigger -->

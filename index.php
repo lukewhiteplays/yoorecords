@@ -74,7 +74,7 @@
 						<textarea class="form-control" id="message"></textarea>
 					</div>
 					
-					<button class="btn btn-7 btn-7b icon-envelope" type="submit">Send message</button>
+					<button class="cobtn btn-7 btn-7b icomoon-envelope" type="submit">Send message</button>
 					
 				</form>
 			</div><!-- end ./col-lg-7 -->
